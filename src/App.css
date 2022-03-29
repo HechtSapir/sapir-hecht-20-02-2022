@@ -36,3 +36,75 @@
     transform: rotate(360deg);
   }
 }
+
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid;
+  padding: 0 10px;
+}
+
+.HeaderButton {
+  border: solid;
+}
+
+form {
+  display: inline-flex;
+  justify-content: space-between;
+  align-items: center;
+  border: solid;
+  margin: 20px 0;
+}
+
+form p {
+  margin: 0;
+}
+
+.TodayCard {
+  display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.ForecastCards {
+  padding: 10vh;
+  display: flex;
+    justify-content: space-between;
+}
+
+.CurrentCard {
+  display: flex;
+    align-items: center;
+    margin: 1vh;
+}
+
+.weatherIcon {
+  border: solid;
+  /* margin: inherit; */
+}
+
+.Day {
+  border: solid;
+  padding: 4px;
+}
+
+.Cards {
+  border: solid;
+  margin: 5vh 20vh;
+}
+
+.CurrentWeatherCondition {
+  margin: 10vh 5vh 0;
+}
+
+.FavoritesCards {
+  display: flex;
+    margin: 5vh 20vh;
+    justify-content: space-between;
+}
+
+.FavoriteCard {
+  border: solid;
+  padding: 1vh;
+}
