@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/css/main.28985c26.css",
+    "main.js": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/js/main.8921a493.js",
+    "static/js/787.6b2d0dab.chunk.js": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/js/787.6b2d0dab.chunk.js",
+    "index.html": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/index.html",
+    "main.28985c26.css.map": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/css/main.28985c26.css.map",
+    "main.8921a493.js.map": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/js/main.8921a493.js.map",
+    "787.6b2d0dab.chunk.js.map": "https://hechtsapir.github.io/sapir-hecht-20-03-2022/static/js/787.6b2d0dab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28985c26.css",
+    "static/js/main.8921a493.js"
+  ]
+}
